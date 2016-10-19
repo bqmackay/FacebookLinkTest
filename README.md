@@ -5,6 +5,7 @@ Facebook link test showing that links to the Facebook iOS app do not take the us
 When linking to a profile in the Facebook iOS app, the link takes you to the home page.
 
 Steps to Recreate:
+
 1. Create a separate application that has a button that links to the following:
 fb://profile/padres
 
